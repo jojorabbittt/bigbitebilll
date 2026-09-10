@@ -11,3 +11,16 @@ div {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.button {
+    padding: 10px;
+    box-sizing: border-box;
+    width: 30px;
+    background-color: rgb(230, 229, 229);
+    color: black;
+    border-color: solid gray;
+    /* font-weight: bold; */
+}
+
+.image {
+    margin: 50px;
+}
